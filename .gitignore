@@ -1,0 +1,4 @@
+*.log
+*.xlsx
+__pycache__/
+Balanced_Freq.txt
